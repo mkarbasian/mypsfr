@@ -1,28 +1,3 @@
-AGAR WORK KARE TO      ==> LIKE ==> COMMENT ==> SUSBCRIBE
-
-WARNA EK MANPASAND GALI DEDENA COMMENT MAIN (;)
-
-
-STEP:1 Sign into ngrok https://ngrok.com/
-STEP:2 Sign into Github https://github.com/
-
-STEP:3 Create a New Repository
-STEP:4 Go To Setting => Secrets and Variabls => Actions => New Respository Secret => Name:NGROK_AUTH_TOKEN     Now Save
-STEP:5 Go To Actions => Set Up Work Flow Yourself => Copy Code & Paste Their & Click => Start Commit => Commit NEw File 
-STEP:6 Go To Actions => Create Main.yml => Build => Tick All The Steps
-
-STEP:7 Go To Search Bar & Search "Remote Desktop Connection" 
-STEP:8 Copy IP Address Go To ngrok => Cloud Edge => Endpoints => Copy URL
-STEP:9 Click More Choices => Use a Diffrent Account 
-
-STEP:10 Username:runneradmin
-STEP:10 Password:P@ssw0rd!
-
-
-
-
-
-
 
 name: CI
 
